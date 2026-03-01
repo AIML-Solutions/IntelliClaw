@@ -6,7 +6,7 @@ Each skill is a self-contained directory with a `scripts/run.sh` entry point.
 Fetches and parses RSS feeds from configured sources. Uses Python for robust XML parsing. Outputs deduplicated claim JSON array.
 
 ## intelliclaw-persian-normalizer
-Normalizes entity names and detects Persian/Farsi language. Local-only — no external translation API dependency.
+Normalizes entity names and performs multilingual cleanup/tagging. Local-only — no external translation API dependency.
 
 ## intelliclaw-claim-crosscheck
 Compares claims across sources for potential contradictions. Outputs a structured report. Contradiction detection logic is extensible.

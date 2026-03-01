@@ -1,6 +1,6 @@
 # IntelliClaw
 
-> Real-time Iran signals intelligence pipeline — harvest, normalize, score, and dispatch open-source intelligence from 7 live feeds every 10 minutes.
+> 🌊 Real-time multi-topic signals pipeline — harvest, normalize, score, and dispatch open-source intelligence from configurable live feeds every 10 minutes.
 
 Built on [OpenClaw](https://github.com/AIML-Solutions) · Operated by [AIML Solutions](https://www.aiml-solutions.com)
 
@@ -8,7 +8,7 @@ Built on [OpenClaw](https://github.com/AIML-Solutions) · Operated by [AIML Solu
 
 ## What It Does
 
-IntelliClaw is an autonomous OSINT pipeline that continuously monitors Iran-focused news sources, normalizes multilingual content, cross-checks claims for contradictions, scores signals by risk level, and dispatches intelligence dispatches to a live telegraph ledger.
+IntelliClaw is an autonomous OSINT pipeline for monitoring any topic or event domain (geopolitics, markets, infrastructure, incident response, and historical timelines). It normalizes multilingual content, cross-checks claims for contradictions, scores signals by risk level, and dispatches structured intelligence updates to a live ledger.
 ```
 RSS Feeds (7 sources)
        │
@@ -51,13 +51,13 @@ RSS Feeds (7 sources)
 
 | Label | Class | Coverage |
 |---|---|---|
-| Reuters-Iran | international | Wire service |
-| AP-Iran | international | Wire service |
-| BBC-Persian | international | FA/EN bilingual |
-| IRNA-English | state | Iranian state media |
-| Iran-International | opposition | Opposition outlet |
-| Al-Monitor-Iran | international | Regional analysis |
-| NetBlocks | sensor | Infrastructure/internet signals |
+| Reuters-World | international | Wire service |
+| AP-World | international | Wire service |
+| BBC-World | international | Global coverage |
+| Al-Jazeera | international | Regional/global analysis |
+| Financial-Times-Markets | markets | Markets and macro coverage |
+| NetBlocks-Global | sensor | Infrastructure/internet signals |
+| Event-Topic-Feed | configurable | User-selected topic stream |
 
 ---
 
@@ -103,7 +103,7 @@ bash operations/IntelliClaw/scripts/check_dependencies.sh
 Edit `operations/IntelliClaw/config/rss_sources.txt` to add or remove sources:
 ```
 # label|class|url
-Reuters-Iran|international|https://...
+Reuters-World|international|https://...
 ```
 
 Supported classes: `international`, `state`, `opposition`, `sensor`, `ugc`
@@ -120,7 +120,7 @@ Each class maps to a base confidence score. See `docs/CONFIGURATION.md`.
 | `live/normalized-claims.json` | Normalized and language-tagged claims |
 | `live/crosscheck-report.json` | Contradiction analysis |
 | `live/scored-claims.json` | Risk-scored claims |
-| `live/intelliclaw-iran-2026-telegraph-ledger.md` | Live intelligence dispatches |
+| `live/intelliclaw-telegraph-ledger.md` | Live intelligence dispatches |
 | `live/intelliclaw-running-minutes.md` | Cycle-by-cycle summary log |
 | `live/cycle.log` | Cron execution log |
 
@@ -129,7 +129,7 @@ Each class maps to a base confidence score. See `docs/CONFIGURATION.md`.
 ## Roadmap
 
 - [x] RSS harvest pipeline (7 sources)
-- [x] Persian/Farsi normalization
+- [x] Multilingual normalization
 - [x] Claim cross-check
 - [x] Risk scoring
 - [x] Telegraph ledger dispatch
@@ -138,7 +138,7 @@ Each class maps to a base confidence score. See `docs/CONFIGURATION.md`.
 - [ ] Contradiction persistence across cycles
 - [ ] Cross-cycle deduplication
 - [ ] One-pager prose summary
-- [ ] DeepL/Google Translate toggle for FA→EN
+- [ ] Optional translation toggle for multilingual streams
 - [ ] Web dashboard
 - [ ] Public API
 

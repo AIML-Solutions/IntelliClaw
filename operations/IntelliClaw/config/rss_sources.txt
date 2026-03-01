@@ -1,8 +1,8 @@
 # label|class|url
-Reuters-Iran|international|https://news.google.com/rss/search?q=site:reuters.com+Iran&hl=en-US&gl=US&ceid=US:en
-AP-Iran|international|https://news.google.com/rss/search?q=site:apnews.com+Iran&hl=en-US&gl=US&ceid=US:en
-BBC-Persian|international|https://news.google.com/rss/search?q=site:bbc.com/persian+%D8%A7%DB%8C%D8%B1%D8%A7%D9%86&hl=fa&gl=IR&ceid=IR:fa
-IRNA-English|state|https://news.google.com/rss/search?q=site:en.irna.ir+Iran&hl=en-US&gl=US&ceid=US:en
-Iran-International|opposition|https://news.google.com/rss/search?q=site:iranintl.com+Iran&hl=en-US&gl=US&ceid=US:en
-Al-Monitor-Iran|international|https://news.google.com/rss/search?q=site:al-monitor.com+Iran&hl=en-US&gl=US&ceid=US:en
-NetBlocks|sensor|https://news.google.com/rss/search?q=NetBlocks+Iran+internet&hl=en-US&gl=US&ceid=US:en
+Reuters-World|international|https://news.google.com/rss/search?q=site:reuters.com+world&hl=en-US&gl=US&ceid=US:en
+AP-World|international|https://news.google.com/rss/search?q=site:apnews.com+world&hl=en-US&gl=US&ceid=US:en
+BBC-World|international|https://news.google.com/rss/search?q=site:bbc.com+world&hl=en-US&gl=US&ceid=US:en
+Al-Jazeera|international|https://news.google.com/rss/search?q=site:aljazeera.com+world&hl=en-US&gl=US&ceid=US:en
+Financial-Times-Markets|markets|https://news.google.com/rss/search?q=site:ft.com+markets&hl=en-US&gl=US&ceid=US:en
+NetBlocks-Global|sensor|https://news.google.com/rss/search?q=NetBlocks+internet+outage&hl=en-US&gl=US&ceid=US:en
+Event-Topic-Feed|configurable|https://news.google.com/rss/search?q=global+breaking+news&hl=en-US&gl=US&ceid=US:en

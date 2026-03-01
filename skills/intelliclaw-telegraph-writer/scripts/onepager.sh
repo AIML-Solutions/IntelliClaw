@@ -2,7 +2,7 @@
 set -euo pipefail
 WS="${1:-.}"
 SCORED="$WS/operations/IntelliClaw/live/scored-claims.json"
-ONEPAGER="$WS/operations/IntelliClaw/live/intelliclaw-iran-2026-onepager-ledger.md"
+ONEPAGER="$WS/operations/IntelliClaw/live/intelliclaw-onepager-ledger.md"
 [ -f "$SCORED" ] || { echo "[onepager] No scored claims"; exit 1; }
 
 TIMESTAMP=$(date -u +"%Y-%m-%dT%H:%M:%SZ")
@@ -10,7 +10,7 @@ HIGH=$(jq '[.[] | select(.risk=="high")] | length' "$SCORED")
 TOTAL=$(jq length "$SCORED")
 
 {
-echo "# IntelliClaw — Iran Signals One-Pager"
+echo "# IntelliClaw — Multi-Topic Signals One-Pager"
 echo "_Last updated: ${TIMESTAMP}_"
 echo ""
 echo "**Cycle summary:** ${TOTAL} signals processed · ${HIGH} high-risk"

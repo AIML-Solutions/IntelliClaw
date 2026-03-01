@@ -7,12 +7,12 @@
 - **Volume:** ~30 items per source, ~210 total per cycle
 - **Dedup:** SHA1 of `label|title|link`
 
-## Stage 2 — persian-normalizer
+## Stage 2 — multilingual-normalizer
 - **Input:** `live/raw-claims.json`
 - **Output:** `live/normalized-claims.json`
 - **Method:** `jq` string substitution
-- **Normalizes:** Teheran→Tehran, Esfahan→Isfahan, Mashad→Mashhad, zero-width chars
-- **Lang tag:** `fa` → `fa-normalized`
+- **Normalizes:** entity aliases, punctuation cleanup, zero-width chars, and locale-aware normalization
+- **Lang tag:** preserve locale with normalized marker when transformed
 
 ## Stage 3 — claim-crosscheck
 - **Input:** `live/normalized-claims.json`
@@ -26,7 +26,7 @@
 
 ## Stage 5 — telegraph-writer
 - **Input:** `live/scored-claims.json`
-- **Output:** `live/intelliclaw-iran-2026-telegraph-ledger.md` (append)
+- **Output:** `live/intelliclaw-telegraph-ledger.md` (append)
 - **Format:** Markdown dispatch blocks with risk level, timestamp, source, text
 
 ## Stage 6 — minutes-scribe
