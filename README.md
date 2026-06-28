@@ -1,6 +1,6 @@
 # IntelliClaw
 
-> 🌊 Real-time multi-topic signals pipeline — harvest, normalize, score, and dispatch open-source intelligence from configurable live feeds every 10 minutes.
+> Real-time multi-topic signals pipeline for research, OSINT, job-market monitoring, market-close analysis, and configurable event intelligence.
 
 Built on [OpenClaw](https://github.com/AIML-Solutions) · Operated by [AIML Solutions](https://www.aiml-solutions.com)
 
@@ -8,7 +8,34 @@ Built on [OpenClaw](https://github.com/AIML-Solutions) · Operated by [AIML Solu
 
 ## What It Does
 
-IntelliClaw is an autonomous OSINT pipeline for monitoring any topic or event domain (geopolitics, markets, infrastructure, incident response, and historical timelines). It normalizes multilingual content, cross-checks claims for contradictions, scores signals by risk level, and dispatches structured intelligence updates to a live ledger.
+IntelliClaw is an autonomous intelligence pipeline for monitoring configurable topics and event domains. It can be adapted for arXiv/research feeds, job-search signals, geopolitics, markets, infrastructure, incident response, and historical timelines. It normalizes multilingual content, cross-checks claims for contradictions, scores signals by risk level, and dispatches structured intelligence updates to a live ledger.
+
+## Example Lanes
+
+- arXiv and technical paper monitoring
+- job-search and target-company intelligence
+- market close summaries and macro/derivatives signal collection
+- OSINT and incident monitoring
+- infrastructure and internet availability signals
+- custom client or research-topic watchlists
+
+Public examples should stay sanitized. Credentials, private job-search notes, client details, and account-specific market data do not belong in this repository.
+
+## Implementation Status
+
+| Component | Status | Notes |
+| --- | --- | --- |
+| Feed harvesting | Active | RSS harvesting and source configuration are implemented under `skills/intelliclaw-feed-harvester/` and `operations/IntelliClaw/config/` |
+| Normalization | Active | Language/entity normalization skill structure is present |
+| Cross-checking | Scaffold | Current contradiction checks are structured but should be expanded with entity/time/source comparison logic |
+| Risk scoring | Active/scaffold | Keyword and confidence scoring exists; calibration and evaluation examples are next steps |
+| Telegraph/minutes output | Active | Dispatch and cycle-summary skills are included |
+| Orchestration | Active | A shell orchestrator coordinates the lane sequence for scheduled or manual runs |
+
+IntelliClaw is best presented as a configurable signal-triage and research-monitoring pipeline. The next quality step is adding fixtures, CI, and sample outputs that demonstrate a complete run end-to-end.
+
+## Pipeline Shape
+
 ```
 RSS Feeds (7 sources)
        │
@@ -43,7 +70,7 @@ RSS Feeds (7 sources)
 └────────────────┘
 ```
 
-**Cycle time:** 10 minutes (cron) · **Claims per cycle:** ~210 · **Sources:** 7
+**Cycle time:** 10 minutes (cron) · **Claims per cycle:** configurable · **Sources:** configurable
 
 ---
 
