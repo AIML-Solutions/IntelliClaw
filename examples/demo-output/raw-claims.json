@@ -1,0 +1,52 @@
+[
+  {
+    "id": "fixture-001",
+    "ts": "2026-07-07T09:28:14Z",
+    "source": "Research-Feed",
+    "source_class": "research",
+    "lang": "en",
+    "text": "New paper proposes verification harnesses for software agents - The paper argues that agent capability should be measured with task specs, tool registries, and verification artifacts.",
+    "link": "https://example.com/research/agent-harness",
+    "confidence": 0.72
+  },
+  {
+    "id": "fixture-002",
+    "ts": "2026-07-07T09:28:14Z",
+    "source": "Market-Feed",
+    "source_class": "markets",
+    "lang": "en",
+    "text": "Cloud providers expand monitoring tools for AI workloads - New products focus on runtime observability, cost controls, and failure investigation.",
+    "link": "https://example.com/markets/ai-runtime-monitoring",
+    "confidence": 0.68
+  },
+  {
+    "id": "fixture-003",
+    "ts": "2026-07-07T09:28:14Z",
+    "source": "Ops-Feed",
+    "source_class": "sensor",
+    "lang": "en",
+    "text": "Regional internet blackout reported near major data center corridor - Operators report degraded access and possible routing instability.",
+    "link": "https://example.com/ops/internet-blackout",
+    "confidence": 0.77
+  },
+  {
+    "id": "fixture-004",
+    "ts": "2026-07-07T09:28:14Z",
+    "source": "Ops-Feed-2",
+    "source_class": "sensor",
+    "lang": "en",
+    "text": "Regional internet access restored near major data center corridor - Follow-up report says the outage has cleared and monitoring is normal.",
+    "link": "https://example.com/ops/internet-restored",
+    "confidence": 0.77
+  },
+  {
+    "id": "fixture-005",
+    "ts": "2026-07-07T09:28:14Z",
+    "source": "Persian-Feed",
+    "source_class": "international",
+    "lang": "fa",
+    "text": "گزارش جدید درباره زیرساخت هوش مصنوعی منتشر شد - این گزارش به پایش زیرساخت و ارزیابی سامانه های عامل اشاره می کند.",
+    "link": "https://example.com/fa/ai-infra-report",
+    "confidence": 0.74
+  }
+]

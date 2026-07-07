@@ -133,6 +133,17 @@ cd intelliclaw
 bash skills/intelliclaw-orchestrator/scripts/run_intelliclaw_orchestrator.sh .
 ```
 
+### Run the offline fixture demo
+
+The fixture demo requires no network access and writes deterministic public-safe outputs under `examples/demo-output/`:
+
+```bash
+python3 scripts/run_fixture_demo.py
+python3 -m unittest discover -s tests
+```
+
+It demonstrates raw claim loading, normalization, contradiction flagging, risk scoring, and a minutes artifact using sanitized example inputs.
+
 ### Run every 10 minutes (cron)
 ```bash
 crontab -e
@@ -177,6 +188,8 @@ Each class maps to a base confidence score. See `docs/CONFIGURATION.md`.
 | `live/cycle.log` | Cron execution log |
 
 Public-safe example artifacts are available under [`examples/`](examples/).
+
+Committed fixture-demo outputs are available under [`examples/demo-output/`](examples/demo-output/).
 
 ---
 

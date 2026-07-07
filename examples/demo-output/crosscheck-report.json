@@ -1,0 +1,15 @@
+{
+  "claims_reviewed": 5,
+  "contradictions": [
+    {
+      "left_id": "fixture-003",
+      "right_id": "fixture-004",
+      "pattern": "blackout/restored"
+    },
+    {
+      "left_id": "fixture-003",
+      "right_id": "fixture-004",
+      "pattern": "degraded/normal"
+    }
+  ]
+}
