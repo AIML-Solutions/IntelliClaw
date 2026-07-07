@@ -1,0 +1,21 @@
+{
+  "cycle_id": "example-cycle-001",
+  "generated_at": "2026-07-07T00:00:00Z",
+  "topic": "ai-infrastructure-monitoring",
+  "sources": [
+    {
+      "label": "Research-Feed",
+      "class": "research",
+      "title": "New paper proposes evaluation harness for software agents",
+      "url": "https://example.com/research/software-agent-harness",
+      "published_at": "2026-07-07T00:00:00Z"
+    },
+    {
+      "label": "Market-Feed",
+      "class": "markets",
+      "title": "Cloud infrastructure providers expand AI workload monitoring tools",
+      "url": "https://example.com/markets/ai-infra-monitoring",
+      "published_at": "2026-07-07T00:05:00Z"
+    }
+  ]
+}

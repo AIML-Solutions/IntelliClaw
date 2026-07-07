@@ -1,0 +1,22 @@
+{
+  "cycle_id": "example-cycle-001",
+  "topic": "ai-infrastructure-monitoring",
+  "claims_reviewed": 2,
+  "signals": [
+    {
+      "summary": "Research feed identifies evaluation harnesses as an emerging concern for software-agent reliability.",
+      "source_class": "research",
+      "confidence": 0.72,
+      "risk_level": "medium",
+      "recommended_action": "Track related papers and compare against internal AgentTools harness artifacts."
+    },
+    {
+      "summary": "Market feed indicates continued commercial investment in AI workload observability and infrastructure tooling.",
+      "source_class": "markets",
+      "confidence": 0.65,
+      "risk_level": "low",
+      "recommended_action": "Monitor for hiring, partnership, and cloud-readiness implications."
+    }
+  ],
+  "caveat": "Public-safe illustrative output. Not a live intelligence product, private client report, or financial recommendation."
+}

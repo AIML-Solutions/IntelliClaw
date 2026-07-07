@@ -10,6 +10,24 @@ Built on [OpenClaw](https://github.com/AIML-Solutions) · Operated by [AIML Solu
 
 IntelliClaw is an autonomous intelligence pipeline for monitoring configurable topics and event domains. It can be adapted for arXiv/research feeds, job-search signals, geopolitics, markets, infrastructure, incident response, and historical timelines. It normalizes multilingual content, cross-checks claims for contradictions, scores signals by risk level, and dispatches structured intelligence updates to a live ledger.
 
+In the MultiClaw OS architecture, IntelliClaw is the intelligence layer: public-source signal collection and triage that can feed agent workflows, research briefs, hiring pipelines, market context, or client-defined watchlists.
+
+## Who This Is For
+
+- Analysts and engineers who need configurable research monitoring without a heavyweight platform
+- Recruiters or clients evaluating Python/bash automation, source hygiene, and signal-triage design
+- Teams building public/private intelligence workflows where credentials, client notes, and sensitive claims must stay separated
+
+## Portfolio Proof
+
+| Area | Evidence |
+| --- | --- |
+| Source configuration | RSS source list and source-class model |
+| Pipeline orchestration | shell orchestrator across harvesting, normalization, cross-checking, scoring, and dispatch |
+| Public/private boundary | README and docs require sanitized examples only |
+| Example artifacts | `examples/signal-cycle.input.json`, `examples/signal-cycle.output.example.json` |
+| Next proof target | fixture-based complete run with tests |
+
 ## Example Lanes
 
 - arXiv and technical paper monitoring
@@ -20,6 +38,13 @@ IntelliClaw is an autonomous intelligence pipeline for monitoring configurable t
 - custom client or research-topic watchlists
 
 Public examples should stay sanitized. Credentials, private job-search notes, client details, and account-specific market data do not belong in this repository.
+
+## Commercial Use Cases
+
+- Research monitoring for markets, technical papers, jobs, incidents, or client-defined watchlists
+- Sanitized intelligence summaries with source and confidence metadata
+- Job-search and target-company monitoring as a private workflow
+- OSINT-style source normalization and contradiction triage with explicit caveats
 
 ## Implementation Status
 
@@ -151,6 +176,8 @@ Each class maps to a base confidence score. See `docs/CONFIGURATION.md`.
 | `live/intelliclaw-running-minutes.md` | Cycle-by-cycle summary log |
 | `live/cycle.log` | Cron execution log |
 
+Public-safe example artifacts are available under [`examples/`](examples/).
+
 ---
 
 ## Roadmap
@@ -194,7 +221,8 @@ intelliclaw/
     ├── PIPELINE.md
     ├── SKILLS.md
     ├── CONFIGURATION.md
-    └── CONTRIBUTING.md
+    ├── CONTRIBUTING.md
+    └── INTELLIGENCE-LAYER.md
 ```
 
 ---
