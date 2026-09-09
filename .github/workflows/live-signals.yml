@@ -1,0 +1,32 @@
+# Live signals: run the IntelliClaw cycle on a schedule and publish a bounded,
+# public-safe snapshot to public/ (the site reads public/latest.json).
+# Pure RSS + jq pipeline — no API keys, no LLM spend.
+name: live-signals
+on:
+  schedule:
+    - cron: "23 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  cycle:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Run the IntelliClaw cycle
+        run: bash skills/intelliclaw-orchestrator/scripts/run_intelliclaw_orchestrator.sh "$PWD"
+      - name: Export the public snapshot
+        run: python3 scripts/export_public.py
+      - name: Commit snapshot if it changed
+        run: |
+          git config user.name "intelliclaw-bot"
+          git config user.email "intelliclaw-bot@users.noreply.github.com"
+          git add public/
+          if git diff --cached --quiet; then
+            echo "no change"
+          else
+            git commit -m "live: signals cycle $(date -u +%Y-%m-%dT%H:%MZ)"
+            git push
+          fi

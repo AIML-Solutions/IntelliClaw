@@ -243,3 +243,14 @@ intelliclaw/
 ## License
 
 MIT © 2026 [AIML Solutions](https://www.aiml-solutions.com)
+
+## Live
+
+![live-signals](https://github.com/AIML-Solutions/IntelliClaw/actions/workflows/live-signals.yml/badge.svg)
+
+The pipeline runs every six hours on GitHub Actions (pure RSS + `jq`, no API keys, no model spend) and publishes a bounded public snapshot:
+
+- [`public/latest.json`](public/latest.json) — cycle counts, source breakdown, top high-risk signals
+- [`public/onepager.md`](public/onepager.md) — the one-page digest
+
+The snapshot is rendered live on [aiml-solutions.com](https://www.aiml-solutions.com/#live). Run a cycle locally with `bash skills/intelliclaw-orchestrator/scripts/run_intelliclaw_orchestrator.sh "$PWD" && python3 scripts/export_public.py`.
