@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-12T10:54:03Z",
+  "generated_at": "2026-09-12T15:35:57Z",
   "cycle": {
     "signals": 210,
-    "high": 35,
-    "medium": 175,
+    "high": 34,
+    "medium": 176,
     "low": 0,
     "contradictions": 0,
     "sources": [
@@ -40,87 +40,87 @@
   "top_high": [
     {
       "source": "NetBlocks-Global",
-      "text": "Iran restores internet after 88-day blackout, keeps social media blocked - iranintl.com — Iran restores internet after 88-day blackout, keeps social media blocked iranintl.com",
+      "text": "Iran restores internet after 88-day blackout, keeps social media blocked - Iran International — Iran restores internet after 88-day blackout, keeps social media blocked Iran International",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBtRU9FbFBySW5aQVNmUTd6SzliRkhaRGVPUnZfTGJtR0RXazlfQmhNSXd3Q0dMTXlQVzBGX0dPTS15bl8wWER0YzhHUlJORGdNUWc?oc=5",
       "confidence": 0.77,
-      "ts": "2026-09-12T10:54:00Z"
+      "ts": "2026-09-12T15:35:53Z"
     },
     {
       "source": "NetBlocks-Global",
       "text": "Iran’s Internet Blackout Hits Record Length, Monitor Says - Kurdistan24 — Iran’s Internet Blackout Hits Record Length, Monitor Says Kurdistan24",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMXgwYk1HVWZESjJvc25RN3kyb0VKN3luV0t2dzNkSzBDZHVER2VSLTYzYk9zN2J6ZnBxUG1lLTVwS3RiUHFOcEZWYU04NENxaDdxcnQ2VkhlYzRnTXlOSTh6dFI3bWdCd01YNFM0U2k0YUE0Qzd1YXR0UVcza2c2bEdmemZ6TXZGMDFjSlBsRUtXZGdmei03TldNN2pZNmU4?oc=5",
       "confidence": 0.77,
-      "ts": "2026-09-12T10:54:00Z"
+      "ts": "2026-09-12T15:35:53Z"
     },
     {
       "source": "NetBlocks-Global",
-      "text": "Netblocks: Internet blackout in Iran continues for 87th day - caliber.az — Netblocks: Internet blackout in Iran continues for 87th day caliber.az",
+      "text": "Netblocks: Internet blackout in Iran continues for 87th day - Caliber.Az — Netblocks: Internet blackout in Iran continues for 87th day Caliber.Az",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWm9yN0VMV3NFb185aUJRMDE5b1FKU2s4TVNnak5WQjVZeEdwaGk1end0cElZUXVlaG4xaEpPWlR3YWhZUHJ0alp2ZXFlc2VOUUpFS2xzTWIzVVNILWdCV0tzcE10Y05oQ1FSM1IzOXFSdm94ODVrVW9kR2lnaVFRUGRRZEtScktLUEpiSFhR?oc=5",
       "confidence": 0.77,
-      "ts": "2026-09-12T10:54:00Z"
+      "ts": "2026-09-12T15:35:53Z"
     },
     {
       "source": "NetBlocks-Global",
       "text": "1,728 Hours of Internet Shutdown in Iran - IranWire — 1,728 Hours of Internet Shutdown in Iran IranWire",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNQ2tRMkRIcnNWTmJQZ2lJM2o2THFTYlVWbTZ5aEtrcE9BQUR3QnNZZlFMa3FKbElaemtwcEg0VjZSMVE1RHdTd0MzZGRia1h0TncxRWNXNVNDQ1RIUW9VVU11TTdjSVBtRUxibHMzU1JCRkwwWXgzM2RSZFVFS0tFeWFn?oc=5",
       "confidence": 0.77,
-      "ts": "2026-09-12T10:54:00Z"
+      "ts": "2026-09-12T15:35:53Z"
     },
     {
       "source": "NetBlocks-Global",
       "text": "NetBlocks reports record-long Internet shutdown in Iran as isolation deepens - The New Indian Express — NetBlocks reports record-long Internet shutdown in Iran as isolation deepens The New Indian Express",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQVWRKVmNhTXpGa2ZDZHFwT2JSdmdOVmtkUHRVUXB0S19nTnhsZUlQa2dTblBVTUZwcGw5dlZJT2FqOFBiLVBybW1oV0loOXlyTzB3MUJfNjdpVV9vdmRhdjFydXVac1VJbTltcG5XZHU0ZktEWUVQQ0JLNXhITzk1U3JXUmR4QzRQcTRuWXNYU1V6OVpDRUdXZW5MYjA1WGdFVjRUQmFIejlEc1d1dEctUVNXR0tIazlQT08zMEx0OF90dUJ2OFHSAdMBQVVfeXFMTnFUQWpTREZYQTB1Z1J4ekNIWnJ0NFplU1BhckRTTXRYTENYeHVPc21rZS1QU3ctN3BtRnptLTBETlo3SEdzR2ZpVm9hbkdWTng3WFFGZE1DUEY2WV8yODQ1YTlmOVVaOU1TV04yeUdYVWdiVVA2empodE9TX0VJQXVidUZsM2ZDclhFdzFXdU50YXNXLVZMcjdlb0EzNUc5VFRxeUVJUlhYU0xRa1lPYXZFUFlOM2Joci12UjA1bUVFZGJQWWVxM2lCUlZqY1ZweWZDNA?oc=5",
       "confidence": 0.77,
-      "ts": "2026-09-12T10:54:00Z"
+      "ts": "2026-09-12T15:35:53Z"
     },
     {
       "source": "NetBlocks-Global",
       "text": "Iran's internet blackout passes 1,000 hours as connectivity drops to near zero - TechSpot — Iran's internet blackout passes 1,000 hours as connectivity drops to near zero TechSpot",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNT3ROdDhYZVRTNmxzWFFWVDBORzl6bW43YUg0dmRiendSVEgza2h5Ul9PbDE0Z3ZUenQtVlBzOGRLa1VSckVhRHVSeklTR1F0dVRTM3FxQThWNEsyTDh3QzFQOW8zQTlPNnRLZ0JMaUo3NHVKazhYb0dCbzZWZHZYcG9uaF81T2JNWDdPOXQtWWhhOHo0c0lB?oc=5",
       "confidence": 0.77,
-      "ts": "2026-09-12T10:54:00Z"
+      "ts": "2026-09-12T15:35:53Z"
     },
     {
       "source": "NetBlocks-Global",
       "text": "Iran maintains 40 day internet blackout despite US Iran ceasefire - Межа. Новини України. — Iran maintains 40 day internet blackout despite US Iran ceasefire Межа. Новини України.",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBBWWt0ZFl2UWE0YzZFdENuWmpPR1l4aHR4YVR6REE2SHByckFkVS1ldzN5emdvaTVHY0tHVUNIQzZua1NnNFdYdkNGd2FFeE12OWkyZHFzX0twZw?oc=5",
       "confidence": 0.77,
-      "ts": "2026-09-12T10:54:00Z"
+      "ts": "2026-09-12T15:35:53Z"
     },
     {
       "source": "NetBlocks-Global",
-      "text": "Iran internet blackout now in its 50th day, says NetBlocks - thehindu.com — Iran internet blackout now in its 50th day, says NetBlocks thehindu.com",
+      "text": "Iran internet blackout now in its 50th day, says NetBlocks - The Hindu — Iran internet blackout now in its 50th day, says NetBlocks The Hindu",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTmdCSk9qZTR4QmQ1MUY1TlB6VWRvNnVjd3RDWmxjejkzSFRjSGhuUHB6VTEwOXpBN3pFb2dGMWEwSjlRdmRmWmlraVk4UFlzRjFUTmw3alJ2ZlJ4NExYZnhYaVhtNkNMWmZpSGJlU1NxMnJQdGhwNUZ1Uk1uUHlmTW5UMGR5SklfTlR6S0ZvbkZxYlh2RldwQUlOWXFjT00zcWxFVkM3ZXpINXhUakZrejRPeHNtMkR6SHZzWTYzVdIBxgFBVV95cUxNOVBZNTJfWFo0aEluR2k0VXgxQkhoT0p2X3U5RjNiODdaVHhlYU91TnBDdm9iM2tuMHlPVHhieUxfMHJ3UXNfdkNsdWFCbzlpaXFXSVJPV0wydmNFT1lFTHFXNWxYRjRnTE1qZFZiWHFkVk5LRnp0bFViMG9mbko4ZUd5bDZLMFJ2azlNWERaSlRIVFRFdDUxQkxJRzVpNklmdlA4WU9yVHlMQWxVQnNVZUdkTUFBRnBETkJTcFg5ZXcyOUQ1V0E?oc=5",
       "confidence": 0.77,
-      "ts": "2026-09-12T10:54:00Z"
+      "ts": "2026-09-12T15:35:53Z"
     },
     {
       "source": "NetBlocks-Global",
-      "text": "Iran internet blackout enters 12th week, NetBlocks says - iranintl.com — Iran internet blackout enters 12th week, NetBlocks says iranintl.com",
+      "text": "Iran internet blackout enters 12th week, NetBlocks says - Iran International — Iran internet blackout enters 12th week, NetBlocks says Iran International",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4yY0d5MFFuakhUQ3RvSVhvYlBtQkstWll1OVRoUTlnNi03N3AyRzFnMmJwRlZwd0RjLW9HYTFtVWZEcGFab0RlUWVIWmRCTjNCdUE?oc=5",
       "confidence": 0.77,
-      "ts": "2026-09-12T10:54:00Z"
+      "ts": "2026-09-12T15:35:53Z"
     },
     {
       "source": "NetBlocks-Global",
       "text": "3 months on, Iran’s internet blockade reshapes economy, society - Anadolu Ajansı — 3 months on, Iran’s internet blockade reshapes economy, society Anadolu Ajansı",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOYllUV25vQnRwemtuTVFVdXhLelFhSGxZcm96cmNiYVR1RUhJdHdnM0x3VjdxaG1xa2c2aElJRG5Kd281aTNhcWpaZWZoWlNfNm0xNGQzcmxBRDY2bFQwREZuQTZnSDRGTjdGejk2c1d1My03aHZPSE5jZU0zX2JGUTZ2bzNrbnYwTVJkeUdBYTR0N2FYRXpNUHRsOGhCNWVqRndhNHlrcVJBUQ?oc=5",
       "confidence": 0.77,
-      "ts": "2026-09-12T10:54:00Z"
+      "ts": "2026-09-12T15:35:53Z"
     },
     {
       "source": "NetBlocks-Global",
-      "text": "NetBlocks: Internet blackout in Iran enters 88th day - caliber.az — NetBlocks: Internet blackout in Iran enters 88th day caliber.az",
+      "text": "NetBlocks: Internet blackout in Iran enters 88th day - Caliber.Az — NetBlocks: Internet blackout in Iran enters 88th day Caliber.Az",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWGRnNTNBNDZPUTlvMlU5X1Azb01jOExmUDc4Tkw4VDFvTGoweHgxNmZzWEZVYWEwR1VpNmF3MXVZb3ZSNk85VWtJWDgwd0JvR1VPMC1iejRNMGREVjBpNVUwdm9sU0tzRjB0aHYxcHFhSy1ROTVWVGpHcFo2emZ3WU5ZTUU?oc=5",
       "confidence": 0.77,
-      "ts": "2026-09-12T10:54:00Z"
+      "ts": "2026-09-12T15:35:53Z"
     },
     {
       "source": "NetBlocks-Global",
-      "text": "NetBlocks: Iran internet blackout enters 73rd day, exceeds 1,728 hours - caliber.az — NetBlocks: Iran internet blackout enters 73rd day, exceeds 1,728 hours caliber.az",
+      "text": "NetBlocks: Iran internet blackout enters 73rd day, exceeds 1,728 hours - Caliber.Az — NetBlocks: Iran internet blackout enters 73rd day, exceeds 1,728 hours Caliber.Az",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUnhydWVmT05YeF9sZjJhUllxNkptTGUxR2NfdkV2dVd6QnRIVnV5NGtqaFFzU2JIS3RmSk5JNk82cWxEV0FWRlhLSnM2aTV0WGNjT2NuNDVnY3EySzlaWWFuRXVNdlBLSUI2bEZvMWYxc3E3eXlKOV9PYTRpTmhnWEotVzFUWXkxNWJpcFJkVkZLSkpLbTUxNnltNA?oc=5",
       "confidence": 0.77,
-      "ts": "2026-09-12T10:54:00Z"
+      "ts": "2026-09-12T15:35:53Z"
     }
   ]
 }
