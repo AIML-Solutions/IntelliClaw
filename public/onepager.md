@@ -1,32 +1,32 @@
 # IntelliClaw — Multi-Topic Signals One-Pager
-_Last updated: 2026-10-03T21:23:17Z_
+_Last updated: 2026-10-04T06:00:08Z_
 
-**Cycle summary:** 210 signals processed · 34 high-risk
+**Cycle summary:** 210 signals processed · 35 high-risk
 
 ## Top High-Risk Signals
 
 **Reuters-World** — EXCLUSIVE: ShinyHunters hacker in FBI data theft detained in Jordan, cooperating with bureau, sources say - Reuters — EXCLUSIVE: ShinyHunters hacker in FBI data theft detained in Jordan, cooperating with bureau, sources say Reuters
-> _confidence: 0.74 · 2026-10-03T21:23:14Z_
+> _confidence: 0.74 · 2026-10-04T06:00:05Z_
 
 **Reuters-World** — PODCAST: Flydubai attack probe, Kyiv bridge strikes and G7’s emergency oil stocks - Reuters — PODCAST: Flydubai attack probe, Kyiv bridge strikes and G7’s emergency oil stocks Reuters
-> _confidence: 0.74 · 2026-10-03T21:23:14Z_
+> _confidence: 0.74 · 2026-10-04T06:00:05Z_
 
 **Reuters-World** — Iran readies harder retaliation if attacked as diplomacy faces long odds - Reuters — Iran readies harder retaliation if attacked as diplomacy faces long odds Reuters
-> _confidence: 0.74 · 2026-10-03T21:23:14Z_
+> _confidence: 0.74 · 2026-10-04T06:00:05Z_
 
 **Reuters-World** — Indian pilot tells PM Modi he opened flydubai cockpit door during attack - Reuters — Indian pilot tells PM Modi he opened flydubai cockpit door during attack Reuters
-> _confidence: 0.74 · 2026-10-03T21:23:14Z_
+> _confidence: 0.74 · 2026-10-04T06:00:05Z_
 
-**Reuters-World** — Foiled flydubai attack clouds regional airline revival - Reuters — Foiled flydubai attack clouds regional airline revival Reuters
-> _confidence: 0.74 · 2026-10-03T21:23:14Z_
+**Reuters-World** — US issues sanctions against Hamas financing network, Treasury says - Reuters — US issues sanctions against Hamas financing network, Treasury says Reuters
+> _confidence: 0.74 · 2026-10-04T06:00:05Z_
 
 
 ## Source Breakdown
 
 - **NetBlocks-Global:** 30 signals, 22 high-risk
 - **Reuters-World:** 30 signals, 6 high-risk
-- **AP-World:** 30 signals, 2 high-risk
-- **Event-Topic-Feed:** 30 signals, 2 high-risk
-- **Al-Jazeera:** 30 signals, 1 high-risk
+- **Event-Topic-Feed:** 30 signals, 3 high-risk
+- **Al-Jazeera:** 30 signals, 2 high-risk
+- **AP-World:** 30 signals, 1 high-risk
 - **BBC-World:** 30 signals, 1 high-risk
 - **Financial-Times-Markets:** 30 signals, 0 high-risk
