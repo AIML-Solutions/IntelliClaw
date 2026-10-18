@@ -1,32 +1,32 @@
 # IntelliClaw — Multi-Topic Signals One-Pager
-_Last updated: 2026-10-17T20:41:10Z_
+_Last updated: 2026-10-18T04:41:30Z_
 
-**Cycle summary:** 210 signals processed · 35 high-risk
+**Cycle summary:** 210 signals processed · 38 high-risk
 
 ## Top High-Risk Signals
 
-**Reuters-World** — 'Our land, our Albania': young lawmaker demands new future as protests rage - Reuters — 'Our land, our Albania': young lawmaker demands new future as protests rage Reuters
-> _confidence: 0.74 · 2026-10-17T20:41:07Z_
+**Reuters-World** — Zelenskiy criticizes Trump's waiver of sanctions on Russia as 'wrong' - Reuters — Zelenskiy criticizes Trump's waiver of sanctions on Russia as 'wrong' Reuters
+> _confidence: 0.74 · 2026-10-18T04:41:27Z_
 
-**Reuters-World** — G7 to launch exercises to guard against AI cyber attacks - Reuters — G7 to launch exercises to guard against AI cyber attacks Reuters
-> _confidence: 0.74 · 2026-10-17T20:41:07Z_
+**Reuters-World** — Prominent Guatemalan anti-corruption lawyer killed in shooting - Reuters — Prominent Guatemalan anti-corruption lawyer killed in shooting Reuters
+> _confidence: 0.74 · 2026-10-18T04:41:27Z_
 
 **AP-World** — Dozens protest growing inequality during IMF-World Bank meetings in Bangkok - AP News — Dozens protest growing inequality during IMF-World Bank meetings in Bangkok AP News
-> _confidence: 0.74 · 2026-10-17T20:41:07Z_
+> _confidence: 0.74 · 2026-10-18T04:41:27Z_
 
-**AP-World** — Florida man killed ex-fiancee hours after their ‘People’s Court’ episode aired, police say - AP News — Florida man killed ex-fiancee hours after their ‘People’s Court’ episode aired, police say AP News
-> _confidence: 0.74 · 2026-10-17T20:41:07Z_
+**AP-World** — Rubio urges restraint over Ethiopia-Eritrea tensions as rights group reports civilians killed - AP News — Rubio urges restraint over Ethiopia-Eritrea tensions as rights group reports civilians killed AP News
+> _confidence: 0.74 · 2026-10-18T04:41:27Z_
 
-**BBC-World** — YouTube couple drive 66,000 miles around world in campervan - BBC — YouTube couple drive 66,000 miles around world in campervan BBC
-> _confidence: 0.74 · 2026-10-17T20:41:07Z_
+**AP-World** — Photos show Israeli settler attacks disrupting the West Bank olive harvest - AP News — Photos show Israeli settler attacks disrupting the West Bank olive harvest AP News
+> _confidence: 0.74 · 2026-10-18T04:41:27Z_
 
 
 ## Source Breakdown
 
 - **NetBlocks-Global:** 30 signals, 21 high-risk
+- **Event-Topic-Feed:** 30 signals, 5 high-risk
+- **AP-World:** 30 signals, 4 high-risk
 - **Al-Jazeera:** 30 signals, 4 high-risk
-- **Event-Topic-Feed:** 30 signals, 4 high-risk
-- **AP-World:** 30 signals, 2 high-risk
 - **Reuters-World:** 30 signals, 2 high-risk
 - **BBC-World:** 30 signals, 1 high-risk
 - **Financial-Times-Markets:** 30 signals, 1 high-risk
