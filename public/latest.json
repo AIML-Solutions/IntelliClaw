@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-25T04:51:22Z",
+  "generated_at": "2026-10-25T11:41:14Z",
   "cycle": {
     "signals": 210,
-    "high": 22,
-    "medium": 188,
+    "high": 21,
+    "medium": 189,
     "low": 0,
     "contradictions": 0,
     "sources": [
@@ -43,84 +43,84 @@
       "text": "Iran's internet blackout extends into second week: NetBlocks - CNBC — Iran's internet blackout extends into second week: NetBlocks CNBC",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQYjN6RGRKdWQxaWRjaFREMHFZdC1lOUIyaU9KR0lHZTJuMHhfcXRpLUhrMWQ1Vk9sMmFrSW9tUUg1ckdaS2hRYWcwNDVRRTZjQ0JnOWVCN3VJZDg1WF8zZ0d2WnRtSE9Zb1ZrSmtQV3NXSEtBLXB4WGpZakJEUUpVMDJJWm1lRjBNRDhJRnJORW1zRDZRbDRaaVFsNNIBoAFBVV95cUxNWE1WNWpPdXkzTy1JVHJPREFjd2JhanoyRlBiN2s0a0c5VGUycFQ1NktCUkhWcXFuNE5BQ3pHaC1LdjV2czdLdC0xNm5xeHl3YzdNWXJFbkhVRjF2Q2YtdDVYcHdnUmd5RUJtVGlVamNEbzZvLVBVcmc0YnNtQ1RucDE4SnVqeVh1X0NHRGtWVDZhNjNJVFlyOVQ1NlhoTG5v?oc=5",
       "confidence": 0.77,
-      "ts": "2026-10-25T04:51:17Z"
+      "ts": "2026-10-25T11:41:11Z"
     },
     {
       "source": "NetBlocks-Global",
       "text": "The digital front: Iran’s internet blackout enters fourth day amid reports of cyberattacks - CNBC — The digital front: Iran’s internet blackout enters fourth day amid reports of cyberattacks CNBC",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZk9xbWgtUEMxZXhaQXNYSi1uWHJJOU1QR1lXNFdxMDBlNFlLUFMtcDdxNkhEQlJVUmV1NFFnWndaVFpEQW5KQkFKVUVOSnA1MVNRZFpMMlFwbm9ZTWR3WGF4RG82U0hfbkZwVlpuWjV5WW9qWFBiMTVBVWJzUzRBRDM5WTdscHlWWUhyYVlZaGR6TWFlVE9pM0dJRdIBoAFBVV95cUxOMHBCWDlLU0h5N2FVQ2NyQW15eUczTEtEMGgzOGJmRF9wNzZVSnU2MnBYZGdNWEFnNHQzY1FrcmhPUGdFR0k3cmFCNkRPN2F5ZWFUZFFxckhnNnZlT3R6VDdIbG5OYzBFdlhzVzFlS2NtdEQ5YkF5dkh0eUlROXVQMUhfSV9INTdpeUZyYkVzeXFnOTdMMkVPUjRZT1liOFFm?oc=5",
       "confidence": 0.77,
-      "ts": "2026-10-25T04:51:17Z"
+      "ts": "2026-10-25T11:41:11Z"
     },
     {
       "source": "NetBlocks-Global",
       "text": "Nationwide internet outage hits Iran as evening protests ramp up - Iran International — Nationwide internet outage hits Iran as evening protests ramp up Iran International",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1zMWFoeUZrS2puaDB2ZnlzYklEeFJrd3lTeV9pWHV6T0F0dnVpd3RXaHY4ZFFyZEVZczdKMVhoOUtzX0s5c1VMVzBnYlgwTE53VGc?oc=5",
       "confidence": 0.77,
-      "ts": "2026-10-25T04:51:17Z"
+      "ts": "2026-10-25T11:41:11Z"
     },
     {
       "source": "NetBlocks-Global",
       "text": "Internet disrupted in Myanmar amid apparent military uprising - NetBlocks — Internet disrupted in Myanmar amid apparent military uprising NetBlocks",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMUZtUm12QUY0blp4MGVMMW03bVpuRUVMckFnYk5mRWRtVm9fdWFqcnhwSWZfOWJrcDl1QXM1ZGYtNlk5WkhaQ3BvZDRGS0FrYnVkX1dxdmFubURhVC0xMnhWZnFrbFZkOUt0ZkxqaDYtaTE5VDBJdXFKT1ZZNFoyNlhuMGdvTy1reW5BYnNacWFHVjBMRGlqaEMyMWlzRm1nc2c?oc=5",
       "confidence": 0.77,
-      "ts": "2026-10-25T04:51:17Z"
+      "ts": "2026-10-25T11:41:11Z"
     },
     {
       "source": "NetBlocks-Global",
       "text": "Internet connectivity knocked out in Yemen after airstrike - NetBlocks — Internet connectivity knocked out in Yemen after airstrike NetBlocks",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMHZPNmlHRmtlbWRuTmJTdmdGbmYxeFMzV2lqeWZ3bmpZZzFHcVN4Mm9ZMHBDdUNnMDNHOU90a3NvYTRyMi1idlFQU29GZmp6U09tYnZIbzY3dzRDdWM4QmNzSzROWUNEUEtiLWdIWFVwaG5zVFNsZ3lJLTFGV3prTDYxcnJUbnVvbmZzc0wxX2RieFc2U2RzWlJkeUVqdw?oc=5",
       "confidence": 0.77,
-      "ts": "2026-10-25T04:51:17Z"
+      "ts": "2026-10-25T11:41:11Z"
     },
     {
       "source": "NetBlocks-Global",
       "text": "Internet disrupted in Russia amid opposition protests - NetBlocks — Internet disrupted in Russia amid opposition protests NetBlocks",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQaGo5bTV1SVE5YW5ZMlRRNXJfbDMtcWI0RWhxVXpIVExTUkxDaktJWWdKRktCLUJPRzltYjZZR3ZFV2lkVFdiNmtqU2wxcWt0UjM4Smh5SXlnck51aldEbHp2a01pLUpXY216WEhwY09XamZmYjNLSFFQaHJmMUxFOXd6V3BxN2dhWndNLXJFcnRleFpCaXlJ?oc=5",
       "confidence": 0.77,
-      "ts": "2026-10-25T04:51:17Z"
+      "ts": "2026-10-25T11:41:11Z"
     },
     {
       "source": "NetBlocks-Global",
       "text": "Iran experiencing nationwide internet blackout, monitor says - Al Jazeera — Iran experiencing nationwide internet blackout, monitor says Al Jazeera",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNnU3T2FscTlCR2t3azN4bzJKVlJIMlc0RWd4NXllWVBMeXRqT09NbmFiV0ZKU1JUMmJTOTFnWno3R2RhUkZRN2JJV1J0bzh5bXpJSUJUMHQzRHdmX0xVVmhZMnhsRUtaN2U4RmlLeVVfSFpLRGhDQTk0bVVlMVVuMzdJOHBUZGFOOHpuOUhtbkMyNUYzUXhSLWlEWS1la2Zo0gGmAUFVX3lxTE5zc3Q2NGJCek5UWXZrVk5mMXZtcUhVa1UybGVmUHlYbGo4ZDZRU3gydnNsM3dlUF9tUVB0YnE4NjdGbW5qUmVUdUV0RVJ2UXZDdEI4NWN4dVVrTFp6al9KTTB3ejJTTWtQRWZORnNGSkJiRFY3TDNEZmdUb1BYeTd2RkE3NjlWTUsxclBCNnJxcXJ6ckoxcG9UdVdDODNCZmlxNXhKVWc?oc=5",
       "confidence": 0.77,
-      "ts": "2026-10-25T04:51:17Z"
+      "ts": "2026-10-25T11:41:11Z"
     },
     {
       "source": "NetBlocks-Global",
       "text": "Internet disrupted in Kazakhstan as energy protests escalate - NetBlocks — Internet disrupted in Kazakhstan as energy protests escalate NetBlocks",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRndwbTlkVDk2OUE2QkhMcmxxSEdCMWdHaHBxVlpGSjJYcUJqazJNYk04UzZ2WDB1RHZxcU43bTRwZjZyYkxic1JoWTYyaGxKd3JLRE5WN3pWMG94MkVOY1gzMVlkSGFPYXkxeEF1ZVNYakkxMDdFc0xDbTUzYmd5UFFWNjFpVHVZUHZxT2YwcFBBcHpOR0dackEwNXJhNW8?oc=5",
       "confidence": 0.77,
-      "ts": "2026-10-25T04:51:17Z"
+      "ts": "2026-10-25T11:41:11Z"
     },
     {
       "source": "NetBlocks-Global",
       "text": "Fresh internet shutdown in Iran sparks public fury - Iran International — Fresh internet shutdown in Iran sparks public fury Iran International",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB5cnJDQW1IOW9YeV9rdDZIeW1BMTVrdFZFZ0Q5Uk1CS3lYSW1uakZyRWs2c2JBeG1PTWVkN1FlYlB6SUZqMXhQZ0VkSTQwX0I3OHc?oc=5",
       "confidence": 0.77,
-      "ts": "2026-10-25T04:51:17Z"
+      "ts": "2026-10-25T11:41:11Z"
     },
     {
       "source": "NetBlocks-Global",
       "text": "Internet disrupted in Armenia amid political turmoil and alleged coup attempt - NetBlocks — Internet disrupted in Armenia amid political turmoil and alleged coup attempt NetBlocks",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUF9OOTlmRDByUkJ3UEtyZkg1cWZ1anZpWWd1dy1EMGY5QmozdEN5Sm9WeHktVjJnTTdWMFJKREdVNHVGc1BfbktKTkM1aVg4M3htUTY2b2c3UUxTc2haaS1iYl9hd0xxTUtmc0RLX20tdE5qVWJxdTllWmpydXl3RTRnd1JMUWZtTEhBdmFYUEkwOTRYbTFzTnh0VVUtMG94emNSVk5QWmgtdjFhelV5cU1xcC1Ud0U?oc=5",
       "confidence": 0.77,
-      "ts": "2026-10-25T04:51:17Z"
+      "ts": "2026-10-25T11:41:11Z"
     },
     {
       "source": "NetBlocks-Global",
       "text": "Internet shutdown in the Republic of the Congo on election day - NetBlocks — Internet shutdown in the Republic of the Congo on election day NetBlocks",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVTNMVHc2ZERiX0dSRW9fOXhnWUxRcWlJS3QzbTRlWmtOZWFSMnJkYVRJZzFJVHNDVEFBTHUyRElqeW53dWpjMThFZnlyakFKSkZqWlA5M0hBcUJoNnVrQ2ItQWdfZE9rWGVJS2tuNm5rN3l5ajJSODlxQXhPRTgzU2RNcUt3VWV3X2tWZElzTFhFVkY1QjdhUnNsR1dRRERPM0pn?oc=5",
       "confidence": 0.77,
-      "ts": "2026-10-25T04:51:17Z"
+      "ts": "2026-10-25T11:41:11Z"
     },
     {
       "source": "NetBlocks-Global",
       "text": "Iraq shuts down internet again as protests intensify - NetBlocks — Iraq shuts down internet again as protests intensify NetBlocks",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOV21UZmstZV91Q2JMQ3ktQ0pTTXowdHdGTGxoejBFN2pYeTJySXNoWDRaajRldzM5cGNCUHdyRlFuMFJpSlVqZ3lWX1Z2UHRpbXhCS0lmRXVBODhIeUhUemxuZkVEVlJ5OEJRRzkyM21jOEloRTdDSnM2a3J0ZkQyYnNzMlhKaUtoYi0tNGEzUy1CWDhBRkE?oc=5",
       "confidence": 0.77,
-      "ts": "2026-10-25T04:51:17Z"
+      "ts": "2026-10-25T11:41:11Z"
     }
   ]
 }
