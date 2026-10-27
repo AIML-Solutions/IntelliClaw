@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-26T22:43:49Z",
+  "generated_at": "2026-10-27T05:13:11Z",
   "cycle": {
     "signals": 210,
-    "high": 35,
-    "medium": 175,
+    "high": 37,
+    "medium": 173,
     "low": 0,
     "contradictions": 0,
     "sources": [
@@ -43,84 +43,84 @@
       "text": "Iran restores internet after 88-day blackout, keeps social media blocked - Iran International — Iran restores internet after 88-day blackout, keeps social media blocked Iran International",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBtRU9FbFBySW5aQVNmUTd6SzliRkhaRGVPUnZfTGJtR0RXazlfQmhNSXd3Q0dMTXlQVzBGX0dPTS15bl8wWER0YzhHUlJORGdNUWc?oc=5",
       "confidence": 0.77,
-      "ts": "2026-10-26T22:43:45Z"
+      "ts": "2026-10-27T05:13:07Z"
     },
     {
       "source": "NetBlocks-Global",
       "text": "NetBlocks: Internet blackout in Iran enters 88th day - Caliber.Az — NetBlocks: Internet blackout in Iran enters 88th day Caliber.Az",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWGRnNTNBNDZPUTlvMlU5X1Azb01jOExmUDc4Tkw4VDFvTGoweHgxNmZzWEZVYWEwR1VpNmF3MXVZb3ZSNk85VWtJWDgwd0JvR1VPMC1iejRNMGREVjBpNVUwdm9sU0tzRjB0aHYxcHFhSy1ROTVWVGpHcFo2emZ3WU5ZTUU?oc=5",
       "confidence": 0.77,
-      "ts": "2026-10-26T22:43:45Z"
+      "ts": "2026-10-27T05:13:07Z"
     },
     {
       "source": "NetBlocks-Global",
       "text": "Iran Businesses Buckle Under Strain of Record Internet Shutdown - Bloomberg.com — Iran Businesses Buckle Under Strain of Record Internet Shutdown Bloomberg.com",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZUk2ck9vMHBqdzliNFJQbDlDQW1uYW82RktZZERaNW1IbkVpSm1vYXNsWkJtQTRzMjVvSXg5S3g3VVlBMDFmc3YtOGY2LXlMaEtHbGEyVmZ5SWx3WkIwZEMyeXQ1ZTYzSEh1ek1mcVdEQUxaaE9FYWlPWWZYYmx4MlB4Sm9wZFVyVFo2c0Y1alhBSW9UeEYxaUxRc3ZtU2FkcVEybFAzOGVlQmpkVWMxZWgwb3Q?oc=5",
       "confidence": 0.77,
-      "ts": "2026-10-26T22:43:45Z"
+      "ts": "2026-10-27T05:13:07Z"
     },
     {
       "source": "NetBlocks-Global",
       "text": "Iran's internet blackout extends into second week: NetBlocks - CNBC — Iran's internet blackout extends into second week: NetBlocks CNBC",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQYjN6RGRKdWQxaWRjaFREMHFZdC1lOUIyaU9KR0lHZTJuMHhfcXRpLUhrMWQ1Vk9sMmFrSW9tUUg1ckdaS2hRYWcwNDVRRTZjQ0JnOWVCN3VJZDg1WF8zZ0d2WnRtSE9Zb1ZrSmtQV3NXSEtBLXB4WGpZakJEUUpVMDJJWm1lRjBNRDhJRnJORW1zRDZRbDRaaVFsNNIBoAFBVV95cUxNWE1WNWpPdXkzTy1JVHJPREFjd2JhanoyRlBiN2s0a0c5VGUycFQ1NktCUkhWcXFuNE5BQ3pHaC1LdjV2czdLdC0xNm5xeHl3YzdNWXJFbkhVRjF2Q2YtdDVYcHdnUmd5RUJtVGlVamNEbzZvLVBVcmc0YnNtQ1RucDE4SnVqeVh1X0NHRGtWVDZhNjNJVFlyOVQ1NlhoTG5v?oc=5",
       "confidence": 0.77,
-      "ts": "2026-10-26T22:43:45Z"
+      "ts": "2026-10-27T05:13:07Z"
     },
     {
       "source": "NetBlocks-Global",
       "text": "Iran internet blackout enters 12th week, NetBlocks says - Iran International — Iran internet blackout enters 12th week, NetBlocks says Iran International",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4yY0d5MFFuakhUQ3RvSVhvYlBtQkstWll1OVRoUTlnNi03N3AyRzFnMmJwRlZwd0RjLW9HYTFtVWZEcGFab0RlUWVIWmRCTjNCdUE?oc=5",
       "confidence": 0.77,
-      "ts": "2026-10-26T22:43:45Z"
+      "ts": "2026-10-27T05:13:07Z"
     },
     {
       "source": "NetBlocks-Global",
       "text": "Nationwide internet blackout reported in Iran as protests persist - Reuters — Nationwide internet blackout reported in Iran as protests persist Reuters",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQaWZucDFtT1RleHF6ZVdNcjlfNHZ2c1VZdHFTQkhGeVpQaHhGSzhQODN0TkJTRHFOcFBIeVlPM3gtLUdseTh2ek9vRWQ0am4xU0tzM3R0anlNQ2hzY1hyTlhwelczbmpuWElOMjlLY0t1Uk9tUFI3VVFNMXQ3RGwyWjdHZTZIS01zV28xWmNvUkUxd1NsRVMtUFFmdWZHRDh6SlYxQkV1X3hZRnZlV0RnMUxn?oc=5",
       "confidence": 0.77,
-      "ts": "2026-10-26T22:43:45Z"
+      "ts": "2026-10-27T05:13:07Z"
     },
     {
       "source": "NetBlocks-Global",
       "text": "Internet service in Iran cut off or restricted as deadly protests reach a possible tipping point - CBS News — Internet service in Iran cut off or restricted as deadly protests reach a possible tipping point CBS News",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9SUU5VRURBVjdZaFAwMUhsYlQtVkhHMFZYcXhNSHhtb04zYl9OM0pfRzd2c1ZpWXJxT3Q5RTRZRlBTcDRLM3BTcTBWWGRONmNLZ25SN3VqMGUzM2NyTk1rQ1BHYURrSWt0enQtRWQxWWxmb05BbTlra0RWT3I?oc=5",
       "confidence": 0.77,
-      "ts": "2026-10-26T22:43:45Z"
-    },
-    {
-      "source": "NetBlocks-Global",
-      "text": "Iran Is Cut Off From Internet as Protests Calling for Regime Change Intensify - The New York Times — Iran Is Cut Off From Internet as Protests Calling for Regime Change Intensify The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOYi1GR0NZVjhPSG80LUwtWUtyNi1VdXVBbzUyVXRoSHRxRW54MEJkNHBDME1uWnBQZ09xRUY2LVZ0b242OHFWWkVOMFVpSm9CZzd2RE93SUJvVUtRMnI4YjhCZk1uTml1YWdjMlBiRjJHNTExcnNDOUhkOVA5aWp6dHNUTVNWSkdZT3ViSlNuODVPZw?oc=5",
-      "confidence": 0.77,
-      "ts": "2026-10-26T22:43:45Z"
+      "ts": "2026-10-27T05:13:07Z"
     },
     {
       "source": "NetBlocks-Global",
       "text": "Internet monitoring experts say Iran blackout likely to continue - The Record from Recorded Future News — Internet monitoring experts say Iran blackout likely to continue The Record from Recorded Future News",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUUJtSUVHZjdLb2liWFNMSDlmUW9QYmpfcENrR1VsNUoxcy1CNVZnWWwyZjN5VkhZRHBLSmk0cWJvZUJjVWp3NGRiYzZzdnFoOC1kUTBwZEVwODl4MV9oVGtaSHhLaW0zSFVrYUhOLWlMXzhCSDl6RS1pcTZGZFdBcGN3SGU0dw?oc=5",
       "confidence": 0.77,
-      "ts": "2026-10-26T22:43:45Z"
+      "ts": "2026-10-27T05:13:07Z"
+    },
+    {
+      "source": "NetBlocks-Global",
+      "text": "Iran Is Cut Off From Internet as Protests Calling for Regime Change Intensify - The New York Times — Iran Is Cut Off From Internet as Protests Calling for Regime Change Intensify The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOYi1GR0NZVjhPSG80LUwtWUtyNi1VdXVBbzUyVXRoSHRxRW54MEJkNHBDME1uWnBQZ09xRUY2LVZ0b242OHFWWkVOMFVpSm9CZzd2RE93SUJvVUtRMnI4YjhCZk1uTml1YWdjMlBiRjJHNTExcnNDOUhkOVA5aWp6dHNUTVNWSkdZT3ViSlNuODVPZw?oc=5",
+      "confidence": 0.77,
+      "ts": "2026-10-27T05:13:07Z"
     },
     {
       "source": "NetBlocks-Global",
       "text": "The digital front: Iran’s internet blackout enters fourth day amid reports of cyberattacks - CNBC — The digital front: Iran’s internet blackout enters fourth day amid reports of cyberattacks CNBC",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZk9xbWgtUEMxZXhaQXNYSi1uWHJJOU1QR1lXNFdxMDBlNFlLUFMtcDdxNkhEQlJVUmV1NFFnWndaVFpEQW5KQkFKVUVOSnA1MVNRZFpMMlFwbm9ZTWR3WGF4RG82U0hfbkZwVlpuWjV5WW9qWFBiMTVBVWJzUzRBRDM5WTdscHlWWUhyYVlZaGR6TWFlVE9pM0dJRdIBoAFBVV95cUxOMHBCWDlLU0h5N2FVQ2NyQW15eUczTEtEMGgzOGJmRF9wNzZVSnU2MnBYZGdNWEFnNHQzY1FrcmhPUGdFR0k3cmFCNkRPN2F5ZWFUZFFxckhnNnZlT3R6VDdIbG5OYzBFdlhzVzFlS2NtdEQ5YkF5dkh0eUlROXVQMUhfSV9INTdpeUZyYkVzeXFnOTdMMkVPUjRZT1liOFFm?oc=5",
       "confidence": 0.77,
-      "ts": "2026-10-26T22:43:45Z"
+      "ts": "2026-10-27T05:13:07Z"
     },
     {
       "source": "NetBlocks-Global",
       "text": "NetBlocks: Iran internet blackout enters 73rd day, exceeds 1,728 hours - Caliber.Az — NetBlocks: Iran internet blackout enters 73rd day, exceeds 1,728 hours Caliber.Az",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUnhydWVmT05YeF9sZjJhUllxNkptTGUxR2NfdkV2dVd6QnRIVnV5NGtqaFFzU2JIS3RmSk5JNk82cWxEV0FWRlhLSnM2aTV0WGNjT2NuNDVnY3EySzlaWWFuRXVNdlBLSUI2bEZvMWYxc3E3eXlKOV9PYTRpTmhnWEotVzFUWXkxNWJpcFJkVkZLSkpLbTUxNnltNA?oc=5",
       "confidence": 0.77,
-      "ts": "2026-10-26T22:43:45Z"
+      "ts": "2026-10-27T05:13:07Z"
     },
     {
       "source": "NetBlocks-Global",
       "text": "Nationwide internet outage hits Iran as evening protests ramp up - Iran International — Nationwide internet outage hits Iran as evening protests ramp up Iran International",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1zMWFoeUZrS2puaDB2ZnlzYklEeFJrd3lTeV9pWHV6T0F0dnVpd3RXaHY4ZFFyZEVZczdKMVhoOUtzX0s5c1VMVzBnYlgwTE53VGc?oc=5",
       "confidence": 0.77,
-      "ts": "2026-10-26T22:43:45Z"
+      "ts": "2026-10-27T05:13:07Z"
     }
   ]
 }
