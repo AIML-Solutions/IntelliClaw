@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-17T08:01:55Z",
+  "generated_at": "2026-11-17T21:01:04Z",
   "cycle": {
-    "signals": 150,
-    "high": 3,
-    "medium": 147,
+    "signals": 180,
+    "high": 4,
+    "medium": 176,
     "low": 0,
     "contradictions": 0,
     "sources": [
@@ -13,6 +13,10 @@
       },
       {
         "source": "AP-World",
+        "count": 30
+      },
+      {
+        "source": "BBC-World",
         "count": 30
       },
       {
@@ -32,24 +36,31 @@
   "top_high": [
     {
       "source": "Reuters-World",
-      "text": "Bahrain intercepts Iranian aerial attacks as Tehran says it attacked US base - Reuters — Bahrain intercepts Iranian aerial attacks as Tehran says it attacked US base Reuters",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNS2FyaWZZTTd4ZWFoWFdoTnFNVmpjakdwQUVnZ0UtMEY5MFc1dEFBeGd4UmczdGh1ektRTHBjRGxBOVlVQy1XV3NOdV9MbWotQkNVa1NBdmJaUloya1VhR2FEUTN3QkgwZ1JRN00wME5tc243TmZHU20zdlpaUHR2Q2lyby0tUkJsR0w5N1lXclI4ZWI5RTdfbjB2d1hxMXVjOVp4MlJPOF9IcjIxSE1JWWx3?oc=5",
-      "confidence": 0.74,
-      "ts": "2026-11-17T08:01:52Z"
-    },
-    {
-      "source": "Reuters-World",
       "text": "Ukraine launches biggest drone attack on Russia since war began, defence ministry data shows - Reuters — Ukraine launches biggest drone attack on Russia since war began, defence ministry data shows Reuters",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOTmhGNVhidkt3TlpMM3l5UmpTaGYyRnEyZ0pDQnhydG0wWm9sS3VGN0pndWVSODhUbFhYTW5EalBIMEljZEVsNndnbVVNd1dmVzNOMVNHYmtpOEZjVXBaOHNfQ0dzQjlva0QyNEU5OS1vMm50TmhuVEFaZDZ0THpwTDUtX3dpeV9HUEYwOEZaVkhBNzBrZXg1dXljcmVFRC1CT0hqclh2cU9uSklvSTRnSUxXVTlmQmNhNlI1Q1E0S2hSdzF3?oc=5",
       "confidence": 0.74,
-      "ts": "2026-11-17T08:01:52Z"
+      "ts": "2026-11-17T21:01:01Z"
     },
     {
       "source": "AP-World",
       "text": "Trump’s Asia trip: Deals in Manila and Shenzhen, nuclear summit with Xi and Putin, maybe Kim meeting - AP News — Trump’s Asia trip: Deals in Manila and Shenzhen, nuclear summit with Xi and Putin, maybe Kim meeting AP New",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOcGw5a2lMb1B2bEtyYWotSkJYcWhXNHN2R3lwQlNuSUxfSHB5VzJ4Y25wNjZvcnVMLWhlN01rNnM3LXo2OHVScndJZm5VRWhjVFNrNnJZZDRhdEpoSThDelpzbDJlMTB0QXZ2al9FLWFkS3JTU1FfaFpBVkp1X2lrMU93bU5FbzlIQl9qbzFQLXE?oc=5",
       "confidence": 0.74,
-      "ts": "2026-11-17T08:01:52Z"
+      "ts": "2026-11-17T21:01:01Z"
+    },
+    {
+      "source": "BBC-World",
+      "text": "Ex-world champion Linares detained by ICE in Texas - BBC — Ex-world champion Linares detained by ICE in Texas BBC",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBJUW9LTWIwdGJ0YkRqemt5RTktTGJTcjZMSl9KaE8xNzJ2enFvdjdJVjZZRGR5aTh3NnFJOWRLZU5oekxoWkFFNEN3cFdKNHZtSURLbk9UN3lJN2kyNzZzZ25JckpIUQ?oc=5",
+      "confidence": 0.74,
+      "ts": "2026-11-17T21:01:01Z"
+    },
+    {
+      "source": "Event-Topic-Feed",
+      "text": "US sanctions International Criminal Court in major escalation - Al Jazeera — US sanctions International Criminal Court in major escalation Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVmVUSkZhQjRwQS11bzZ3V2RQWDlaY0NvLTkwdDd6bUpjX1UwNVcwLWI0UExJV2FCRFZlRDZQalVZMEhleHFZb3E1WnBwZTZRMFRSSmRDWDNESzlIUzQyYzJCMFEtZjRDZy1FZ2dhLWVWQWEzOVZwLUhqWFl3QklTb2Nfd0pMX3J6cGl4cjU3Q3ZRT0QwOXgtelB0QU1WYkp3X2FWLThfVE5RZWt2OVdr0gG0AUFVX3lxTE5WSy1UNkxSME5YbXVTbU1vMHdTQ1U5RmhQX0lwQnphVjViaWtkQmdWNWs0ZlVKdUd5RlZrNDBFSHpUMkstMWY1NUFFRHhFazIyZmtEOUFxMDFNRlJFREZVQ3ZRZHNweXpVRmxtZWJuM0t4SGluNmNaSWNPMTl5VnB6c3F3dVdpVWJBdTNoRW9KQVhfVmZEc2NkM0xGaXVXNkxhNkJVN19BQjFVMXlhR3V3Y3RlTA?oc=5",
+      "confidence": 0.66,
+      "ts": "2026-11-17T21:01:01Z"
     }
   ]
 }
