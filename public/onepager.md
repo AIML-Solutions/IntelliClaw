@@ -1,31 +1,32 @@
 # IntelliClaw — Multi-Topic Signals One-Pager
-_Last updated: 2026-11-24T10:01:21Z_
+_Last updated: 2026-11-24T22:32:38Z_
 
-**Cycle summary:** 180 signals processed · 28 high-risk
+**Cycle summary:** 210 signals processed · 22 high-risk
 
 ## Top High-Risk Signals
 
 **Reuters-World** — Ukraine sinks Russian warship in Libya as conflict spreads beyond Europe - Reuters — Ukraine sinks Russian warship in Libya as conflict spreads beyond Europe Reuters
-> _confidence: 0.74 · 2026-11-24T10:01:18Z_
+> _confidence: 0.74 · 2026-11-24T22:32:34Z_
+
+**Reuters-World** — Libya's eastern government suspects drone attack caused explosion on Russian ship - Reuters — Libya's eastern government suspects drone attack caused explosion on Russian ship Reuters
+> _confidence: 0.74 · 2026-11-24T22:32:34Z_
 
 **Reuters-World** — Three Russian missiles flew into Poland Friday, prosecutors say - Reuters — Three Russian missiles flew into Poland Friday, prosecutors say Reuters
-> _confidence: 0.74 · 2026-11-24T10:01:18Z_
+> _confidence: 0.74 · 2026-11-24T22:32:34Z_
 
-**AP-World** — Trump, Xi and Putin hold rare 3-way talks on nuclear risks but deliver no breakthroughs - AP News — Trump, Xi and Putin hold rare 3-way talks on nuclear risks but deliver no breakthroughs AP News
-> _confidence: 0.74 · 2026-11-24T10:01:18Z_
+**Reuters-World** — US eyes Iran as possible culprit in dozens of new cyberattacks against ships, WSJ reports - Reuters — US eyes Iran as possible culprit in dozens of new cyberattacks against ships, WSJ reports Reuters
+> _confidence: 0.74 · 2026-11-24T22:32:34Z_
 
-**AP-World** — Ballistic missile attack on Zelenskyy's hometown in central Ukraine kills 2 and wounds scores - AP News — Ballistic missile attack on Zelenskyy's hometown in central Ukraine kills 2 and wounds scores AP News
-> _confidence: 0.74 · 2026-11-24T10:01:18Z_
-
-**AP-World** — Drone attack on Colombian police base injures 3 civilians and damages homes - AP News — Drone attack on Colombian police base injures 3 civilians and damages homes AP News
-> _confidence: 0.74 · 2026-11-24T10:01:18Z_
+**Reuters-World** — Two arrested after break-in at country home of Prince William and wife Kate, UK police say - Reuters — Two arrested after break-in at country home of Prince William and wife Kate, UK police say Reuters
+> _confidence: 0.74 · 2026-11-24T22:32:34Z_
 
 
 ## Source Breakdown
 
-- **NetBlocks-Global:** 30 signals, 20 high-risk
-- **AP-World:** 30 signals, 4 high-risk
-- **Event-Topic-Feed:** 30 signals, 2 high-risk
-- **Reuters-World:** 30 signals, 2 high-risk
+- **NetBlocks-Global:** 30 signals, 13 high-risk
+- **Reuters-World:** 30 signals, 5 high-risk
+- **AP-World:** 30 signals, 3 high-risk
+- **Event-Topic-Feed:** 30 signals, 1 high-risk
 - **Al-Jazeera:** 30 signals, 0 high-risk
 - **BBC-World:** 30 signals, 0 high-risk
+- **Financial-Times-Markets:** 30 signals, 0 high-risk
